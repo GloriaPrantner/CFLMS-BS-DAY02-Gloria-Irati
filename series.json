@@ -1,0 +1,67 @@
+var series = `[{ "title" : "The Witcher",
+				"rating" : "8.3/10", 
+				"genre" : "Action, Adventure, Fantasy",
+				"year" : "(2019-)",
+				"creator" : "Lauren Schmidt",
+				"stars" : "Henry Cavill, Freya Allan, Anya Chalotra",
+				"src" : "img/witcher.jpg"
+			},{
+				"title" : "The Big Bang Theory",
+				"rating" : "8.1/10", 
+				"genre" : "Comedy, Romance",
+				"year" : "(2007–2019)",
+				"creator" : "Chuck Lorre, Bill Prady",
+				"stars" : "Johnny Galecki, Jim Parsons, Kaley Cuoco",
+				"src" : "img/tbbt.jpg"
+			},{
+				"title" : "Game of Thrones",
+				"rating" : "9.3/10", 
+				"genre" : "Action, Adventure, Drama",
+				"year" : "(2011–2019)",
+				"creator" : "David Benioff, D.B. Weiss",
+				"stars" : "Emilia Clarke, Peter Dinklage, Kit Harington",
+				"src" : "img/got.jpg"
+
+			},{
+				"title" : "RuPaul's Dragrace",
+				"rating" : "9.3/10", 
+				"genre" : "Game-Show, Reality-TV",
+				"year" : "(2009–)",
+				"creator" : "RuPaul",
+				"stars" : "RuPaul, Michelle Visage, Santino Rice",
+				"src" : "img/rupaul.jpg"
+			},{
+
+				"title":"How I met your mother",
+				"rating": "8,3/10",
+				"genre": "Comedy, Romance",
+				"year": "(2005–2014)",
+				"creator": "Carter Bays, Craig Thomas",
+				"stars": "Josh Radnor, Jason Segel, Cobie Smulders",
+				"src": "img/himym.jpg"
+			},{
+				"title":"Doctor Who",
+				"rating": "8,6/10",
+				"genre": "Adventure, Drama, Family",
+				"year": "(2005– )",
+				"creator": "Sydney Newman",
+				"stars": "Jodie Whittaker, Peter Capaldi, Pearl Mackie",
+				"src": "img/doctor.jpg"
+			},{
+				"title":"Breaking Bad",
+				"rating": "9.5/10",
+				"genre": "Crime, Drama, Thriller",
+				"year": "(2008–2013)",
+				"creator": "Vince Gilligan",
+				"stars": "Bryan Cranston, Aaron Paul, Anna Gunn",
+				"src": "img/breaking.jpg"
+			},{
+				"title":"The Walking Dead",
+				"rating": "8.2/10",
+				"genre": "Drama, Horror, Thriller ",
+				"year": "(2010–)",
+				"creator": "Frank Darabont, Angela Kang",
+				"stars": "Andrew Lincoln, Norman Reedus, Melissa McBride",
+				"src": "img/dead.jpg"
+			
+}]`
